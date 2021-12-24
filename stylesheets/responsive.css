@@ -131,7 +131,7 @@
   .window4 h2{ width: 50%; margin-top: 12%;}
   .window4 h3{width: 50%; top: 21%;}
   .window5 {height: 20%;}
-  .stroke2 {background: url( '../images/stroke2_2.svg');   background-size: contain; background-repeat: no-repeat; height: 26.1%;width: 100%;}
+  .stroke2 {background: url( '../images/stroke2_2.svg');   background-size: contain; background-repeat: no-repeat; }
   .window5 h1{ width: 90%; margin-top:0%; top: 35%; left: 4.7%; margin-left: 0%;}
   .button2 {width: 24.70572916666667%; height: 5.693359375%; font-size: 19px; top: 58%; left: 4.7%;}
   .fb, .ig {transform: scale(1.3); top: 91%;}
@@ -201,7 +201,7 @@
   .window4 h2{ width: 55%; margin-top: 12%;}
   .window4 h3{width: 60%; top: 25%;}
   .window5 {height: 20%;}
-  .stroke2 {background: url( '../images/stroke2_2.svg'); height: 42.1%;   background-size: contain; background-repeat: no-repeat;}
+  .stroke2 {background: url( '../images/stroke2_2.svg');    background-size: contain; background-repeat: no-repeat;}
   .window5 h1{ width: 90%; margin-top:0%; top: 40%; left: 4.7%; margin-left: 0%;}
   .button2 {width: 24.70572916666667%; height: 5.693359375%; font-size: 14px; top: 83%; left: 4.7%;}
   .fb, .ig {transform: scale(1.3); top: 91%;}
@@ -234,7 +234,7 @@
   .window4 h2{ width: 93%; margin-top: 12%;}
   .window4 h3{width: 88%; top: 21%;}
   .window5 {height: 20%;}
-  .stroke2 {background: url( '../images/stroke2_1.svg'); height: 21%;   background-size: contain;background-repeat: no-repeat;}
+  .stroke2 {background: url( '../images/stroke2_1.svg');  background-size: contain;background-repeat: no-repeat;}
   .window5 h1{ width: 90%; margin-top:0%; top: 30%; left: 4.7%; margin-left: 0%;}
   .button2 {width: 37.56875%; height: 6.503521126760563%; font-size: 12px; top: 72%; left: 4.7%;}
   .email {top: 95%; left: 32%; font-size: 12px;}
